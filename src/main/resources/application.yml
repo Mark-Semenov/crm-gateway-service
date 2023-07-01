@@ -13,7 +13,6 @@ spring:
       default-filters:
         - TokenRelay=
 
-
 eureka:
   instance:
     prefer-ip-address: true
